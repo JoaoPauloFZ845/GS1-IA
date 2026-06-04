@@ -6,7 +6,7 @@ O **OrbitalWatch AI** usa dados do dataset **NASA FIRMS** do kaggle para classif
 
 Link dos Datasets: https://www.kaggle.com/datasets/vijayveersingh/nasa-firms-active-fire-dataset-modisviirs/data
 
-Obs. Não foi possível adicioanr os datasets no reposítório pelo tamanho dos aquivos.
+Obs. Não foi possível adicionar os datasets no reposítório devidoa ao tamanho dos arquivos.
 
 ---
 
