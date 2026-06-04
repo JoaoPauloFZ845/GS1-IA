@@ -29,9 +29,13 @@ Assim, a plataforma consegue destacar primeiro os focos com maior prioridade, co
 ## 👥 Integrantes
 
 Caíque Walter Silva - RM550693
+
 Guilherme Nobre Bernardo - RM98604
+
 Guilherme Monteiro Espim - RM99499
+
 João Paulo Fonseca Zamperlini - RM99279
+
 Matheus José de Lima Costa - RM551157
 
 ---
