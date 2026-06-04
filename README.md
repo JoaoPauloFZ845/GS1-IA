@@ -3,9 +3,11 @@
 Projeto desenvolvido para a disciplina **Generative AI For Engineering (GAIE)** da **Global Solution 2026 - FIAP**.
 
 O **OrbitalWatch AI** usa dados do dataset **NASA FIRMS** do kaggle para classificar focos de calor detectados por satélite em níveis de risco. A ideia é apoiar o monitoramento ambiental, ajudando a priorizar ocorrências mais relevantes dentro da plataforma OrbitalWatch.
+
 Link dos Datasets: https://www.kaggle.com/datasets/vijayveersingh/nasa-firms-active-fire-dataset-modisviirs/data
 
 Obs. Não foi possível adicioanr os datasets no reposítório pelo tamanho
+
 Link da aplicação: https://gs1-ia-bnnpakcgxg9pi2qywsgmac.streamlit.app/
 ---
 
