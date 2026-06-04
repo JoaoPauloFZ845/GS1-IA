@@ -12,7 +12,7 @@ st.title("OrbitalWatch AI")
 st.subheader("Classificação de risco de focos de calor")
 
 st.write(
-    "Este aplicativo usa o modelo treinado no notebook para classificar "
+    "Este aplicativo usa o modelo treinado para classificar "
     "o risco de um foco de calor detectado por satélite. "
 
 )
